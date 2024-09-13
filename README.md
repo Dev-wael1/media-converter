@@ -67,4 +67,3 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 For questions or feedback, you can reach me at [mrwael13@outlook.com](mailto:your-email@example.com).
 
-```
