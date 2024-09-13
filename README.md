@@ -1,6 +1,4 @@
-Sure, here's a `README.md` template for your project:
 
-```markdown
 # Media Converter
 
 A Python-based media converter that uses FFmpeg to convert video and audio files between various formats, such as MKV, MP4, MP3, and more.
